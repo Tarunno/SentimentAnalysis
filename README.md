@@ -24,5 +24,5 @@ I have used a BERT-based model which was provided pre trained from aXhyra/presen
 - Invalid endpoints (404)
 - Invalid HTTP request method (405)
 - Empty payload (400)
-- Server error (500)
+- Server error (500) <br/>
 Each of the exceptions provides custom response messages.
